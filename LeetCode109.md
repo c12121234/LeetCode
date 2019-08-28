@@ -22,7 +22,7 @@ For this problem, a height-balanced binary tree is defined as a binary tree in w
 
 #### 思路：
 
-昨天才解過一個分治法的題目，想了一下後馬上寫出，只是效能還可以改善就是了。
+昨天才解過一個分治法 [LeetCode 105](https://github.com/c12121234/LeetCode/blob/master/LeetCode105.md)的題目，想了一下後馬上寫出，只是效能還可以改善就是了。
 特別注意的地方是mid值要(left+right+1)/2 補正偶數個數和奇數個數的差異
 
 #### 參考code：
