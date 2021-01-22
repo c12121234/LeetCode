@@ -99,3 +99,9 @@ public:
 思路很簡單，反倒是花很多時間再複習快排...
 
 參考資料:https://www.cnblogs.com/grandyang/p/4539757.html
+
+https://openhome.cc/Gossip/AlgorithmGossip/QuickSort1.htm#Python
+
+https://openhome.cc/Gossip/AlgorithmGossip/QuickSort2.htm
+
+https://openhome.cc/Gossip/AlgorithmGossip/QuickSort3.htm
