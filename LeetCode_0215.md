@@ -94,4 +94,8 @@ public:
 };
 ```
 
-出的很棒的一題，有空再把python版的補上
+出的很棒的一題，有空再把python版的補上 
+
+思路很簡單，反倒是花很多時間再複習快排...
+
+參考資料:https://www.cnblogs.com/grandyang/p/4539757.html
